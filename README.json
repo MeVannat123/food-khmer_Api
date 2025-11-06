@@ -1,0 +1,286 @@
+{
+  "api": "Khmer Food Database",
+  "total_products": 40,
+  "products": [
+    {
+      "id": 1,
+      "title": "Amok Trey",
+      "title_khmer": "អាម៉ុកត្រី",
+      "image": "https://example.com/images/amok-trey.jpg",
+      "price": 6.5
+    },
+    {
+      "id": 2,
+      "title": "Bai Sach Chrouk",
+      "title_khmer": "បាយសាច់ជ្រូក",
+      "image": "https://example.com/images/bai-sach-chrouk.jpg",
+      "price": 3.5
+    },
+    {
+      "id": 3,
+      "title": "Lok Lak",
+      "title_khmer": "លក់ឡក់",
+      "image": "https://example.com/images/lok-lak.jpg",
+      "price": 7.0
+    },
+    {
+      "id": 4,
+      "title": "Nom Banh Chok",
+      "title_khmer": "នំបញ្ចុក",
+      "image": "https://example.com/images/nom-banh-chok.jpg",
+      "price": 2.5
+    },
+    {
+      "id": 5,
+      "title": "Kuy Teav",
+      "title_khmer": "គុយទាវ",
+      "image": "https://example.com/images/kuy-teav.jpg",
+      "price": 3.0
+    },
+    {
+      "id": 6,
+      "title": "Samlor Kako",
+      "title_khmer": "សម្លកកូរ",
+      "image": "https://example.com/images/samlor-kako.jpg",
+      "price": 4.0
+    },
+    {
+      "id": 7,
+      "title": "Cha Houy Teuk",
+      "title_khmer": "ចហួយទឹក",
+      "image": "https://example.com/images/cha-houy-teuk.jpg",
+      "price": 1.5
+    },
+    {
+      "id": 8,
+      "title": "Num Pang",
+      "title_khmer": "នំបុ័ង",
+      "image": "https://example.com/images/num-pang.jpg",
+      "price": 2.0
+    },
+    {
+      "id": 9,
+      "title": "Samlar Machu",
+      "title_khmer": "សម្លម្ជូរ",
+      "image": "https://example.com/images/samlar-machu.jpg",
+      "price": 5.0
+    },
+    {
+      "id": 10,
+      "title": "Pleah Sach Ko",
+      "title_khmer": "ផ្លែសាច់គោ",
+      "image": "https://example.com/images/pleah-sach-ko.jpg",
+      "price": 6.0
+    },
+    {
+      "id": 11,
+      "title": "Bong Chhouk Svay",
+      "title_khmer": "បង្ជូកស្វាយ",
+      "image": "https://example.com/images/bong-chhouk-svay.jpg",
+      "price": 3.0
+    },
+    {
+      "id": 12,
+      "title": "Kdam Chaa",
+      "title_khmer": "ក្តាមឆា",
+      "image": "https://example.com/images/kdam-chaa.jpg",
+      "price": 12.0
+    },
+    {
+      "id": 13,
+      "title": "Cha Kroeung Sach Moan",
+      "title_khmer": "ឆាគ្រឿងសាច់មាន់",
+      "image": "https://example.com/images/cha-kroeung.jpg",
+      "price": 5.5
+    },
+    {
+      "id": 14,
+      "title": "Nom Ansom Chek",
+      "title_khmer": "នំអន្សមចេក",
+      "image": "https://example.com/images/nom-ansom-chek.jpg",
+      "price": 1.5
+    },
+    {
+      "id": 15,
+      "title": "Trey Chean Chhien",
+      "title_khmer": "ត្រីចៀន",
+      "image": "https://example.com/images/trey-chien.jpg",
+      "price": 8.0
+    },
+    {
+      "id": 16,
+      "title": "Samlor Korko",
+      "title_khmer": "សម្លកកូរ",
+      "image": "https://example.com/images/samlor-korko.jpg",
+      "price": 4.5
+    },
+    {
+      "id": 17,
+      "title": "Lap Khmer",
+      "title_khmer": "ឡាបខ្មែរ",
+      "image": "https://example.com/images/lap-khmer.jpg",
+      "price": 6.5
+    },
+    {
+      "id": 18,
+      "title": "Nom Kreap",
+      "title_khmer": "នំក្រាប់",
+      "image": "https://example.com/images/nom-kreap.jpg",
+      "price": 2.5
+    },
+    {
+      "id": 19,
+      "title": "Bai Cha",
+      "title_khmer": "បាយឆា",
+      "image": "https://example.com/images/bai-cha.jpg",
+      "price": 4.0
+    },
+    {
+      "id": 20,
+      "title": "Mi Cha",
+      "title_khmer": "មីឆា",
+      "image": "https://example.com/images/mi-cha.jpg",
+      "price": 4.0
+    },
+    {
+      "id": 21,
+      "title": "Samlar Chapek",
+      "title_khmer": "សម្លចាប់",
+      "image": "https://example.com/images/samlar-chapek.jpg",
+      "price": 5.0
+    },
+    {
+      "id": 22,
+      "title": "Ping Moan",
+      "title_khmer": "ពីងមាន់",
+      "image": "https://example.com/images/ping-moan.jpg",
+      "price": 5.5
+    },
+    {
+      "id": 23,
+      "title": "Ping Sach Ko",
+      "title_khmer": "ពីងសាច់គោ",
+      "image": "https://example.com/images/ping-sach-ko.jpg",
+      "price": 6.0
+    },
+    {
+      "id": 24,
+      "title": "Nom Plae Ai",
+      "title_khmer": "នំផ្លែអាយ",
+      "image": "https://example.com/images/nom-plae-ai.jpg",
+      "price": 2.0
+    },
+    {
+      "id": 25,
+      "title": "Trey Aing",
+      "title_khmer": "ត្រីអាំង",
+      "image": "https://example.com/images/trey-aing.jpg",
+      "price": 7.0
+    },
+    {
+      "id": 26,
+      "title": "Kola Ko",
+      "title_khmer": "កុឡាកូ",
+      "image": "https://example.com/images/kola-ko.jpg",
+      "price": 3.5
+    },
+    {
+      "id": 27,
+      "title": "Num Krok",
+      "title_khmer": "នំក្រូច",
+      "image": "https://example.com/images/num-krok.jpg",
+      "price": 2.0
+    },
+    {
+      "id": 28,
+      "title": "Sach Ko Ang",
+      "title_khmer": "សាច់គោអាំង",
+      "image": "https://example.com/images/sach-ko-ang.jpg",
+      "price": 8.0
+    },
+    {
+      "id": 29,
+      "title": "Pong Tea Kon",
+      "title_khmer": "ពងទាកូន",
+      "image": "https://example.com/images/pong-tea-kon.jpg",
+      "price": 1.0
+    },
+    {
+      "id": 30,
+      "title": "Nom Kha Chai",
+      "title_khmer": "នំខាឆៃ",
+      "image": "https://example.com/images/nom-kha-chai.jpg",
+      "price": 2.5
+    },
+    {
+      "id": 31,
+      "title": "Bok L'hong",
+      "title_khmer": "បុកល្ហុង",
+      "image": "https://example.com/images/bok-lhong.jpg",
+      "price": 3.0
+    },
+    {
+      "id": 32,
+      "title": "Somlar Kari",
+      "title_khmer": "សម្លការី",
+      "image": "https://example.com/images/somlar-kari.jpg",
+      "price": 5.5
+    },
+    {
+      "id": 33,
+      "title": "Cha Om Kai",
+      "title_khmer": "ឆាអំកៃ",
+      "image": "https://example.com/images/cha-om-kai.jpg",
+      "price": 3.5
+    },
+    {
+      "id": 34,
+      "title": "Trei Chhlok Svay",
+      "title_khmer": "ត្រីឆ្លុកស្វាយ",
+      "image": "https://example.com/images/trei-chhlok-svay.jpg",
+      "price": 7.5
+    },
+    {
+      "id": 35,
+      "title": "Num Sang Khya L'pov",
+      "title_khmer": "នំសង់ខ្យាល្ពៅ",
+      "image": "https://example.com/images/num-sang-khya.jpg",
+      "price": 3.5
+    },
+    {
+      "id": 36,
+      "title": "Trei Chamhoy",
+      "title_khmer": "ត្រីចំហុយ",
+      "image": "https://example.com/images/trei-chamhoy.jpg",
+      "price": 8.5
+    },
+    {
+      "id": 37,
+      "title": "Kuy Teav Cha",
+      "title_khmer": "គុយទាវឆា",
+      "image": "https://example.com/images/kuy-teav-cha.jpg",
+      "price": 4.5
+    },
+    {
+      "id": 38,
+      "title": "Banh Chao",
+      "title_khmer": "បាញ់ឆៅ",
+      "image": "https://example.com/images/banh-chao.jpg",
+      "price": 4.0
+    },
+    {
+      "id": 39,
+      "title": "Cha Trop Dot",
+      "title_khmer": "ឆាត្រប់ដុត",
+      "image": "https://example.com/images/cha-trop-dot.jpg",
+      "price": 5.0
+    },
+    {
+      "id": 40,
+      "title": "Teuk Tnaot Chhou",
+      "title_khmer": "ទឹកត្នោតឈូ",
+      "image": "https://example.com/images/teuk-tnaot-chhou.jpg",
+      "price": 1.5
+    }
+  ]
+}
